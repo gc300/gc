@@ -1,0 +1,1 @@
+var domains = ["Vaobo88.com", "Caoviet.net", "Lodeonline.top", "Bet4vn.top", "Danhbaifi88.com", "Doithuonguytin.com", "Casinoonline.vc", "Songbac.top", "Bongso88.com","Gbpnews.com"].sort();
