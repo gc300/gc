@@ -8,4 +8,7 @@ var domains = ["Vaobo88.com",
                "Songbac.top", 
                "Bongso88.com",
                "Gbpnews.com", 
-               "Nhacaiuytin.vc"].sort();
+               "Nhacaiuytin.vc",
+               "adfp-sd.com",
+               "fwbsaigon.club",
+               "nhacaiuytin168.com"].sort();
