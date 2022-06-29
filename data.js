@@ -9,6 +9,6 @@ var domains = ["Vaobo88.com",
                "Bongso88.com",
                "Gbpnews.com", 
                "Nhacaiuytin.vc",
-               "adfp-sd.com",
-               "fwbsaigon.club",
-               "nhacaiuytin168.com"].sort();
+               "Adfp-sd.com",
+               "Fwbsaigon.club",
+               "Nhacaiuytin168.com"].sort();
