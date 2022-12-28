@@ -1,2 +1,1 @@
-var domains = ["Caovietnet.com",
-               "Vaobo88.co"].sort();
+var domains = ["https://www.arlesavignon.net/"].sort();
